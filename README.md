@@ -1,5 +1,5 @@
 # CSGO Nades
-This is a small collection of my most used nades in CSGO. 
+This is a small collection of my most used nades in CSGO.  
 *All the non jump-throws works on both 64 and 128 tick. The jump-throws are ment for 128 tick.*
 
 ## [Overpass](./overpass)
