@@ -14,5 +14,6 @@ This is a small collection of my most used nades in CSGO.
 - [smoke - truck](./overpass/t-smoke-a-truck.gif)
 - [smoke - bridge](./overpass/t-smoke-b-bridge.gif)
 - [smoke - heaven](./overpass/t-smoke-b-heaven.gif)
-
 - [molo - barrels](./overpass/t-molo-b-barrels.gif)
+- [he - boost - 1](./overpass/t-he-b-boost-1.gif)
+- [he - boost - 2](./overpass/t-he-b-boost-2.gif)
