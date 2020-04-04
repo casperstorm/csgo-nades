@@ -6,7 +6,7 @@ This is a small collection of my most used nades in CSGO.
 - [smoke - monster](./overpass/ct-smoke-b-monster.gif)
 - [one-way - ug](./overpass/ct-1way-ug.gif)
 - [one-way - bench](./overpass/ct-1way-bench.gif)
-- [one-way - truk](./overpass/ct-1way-truck.gif)
+- [one-way - truck](./overpass/ct-1way-truck.gif)
 ### T
 - [smoke - bank](./overpass/t-smoke-a-bank.gif)
 - [smoke - dumster](./overpass/t-smoke-a-dumster.gif)
