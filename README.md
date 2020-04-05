@@ -35,6 +35,25 @@ _All the non jump-throws works on both 64 and 128 tick. The jump-throws are ment
 - [he - hut - 1](./nuke/t-he-hut-1.gif)
 - [he - hut - 2](./nuke/t-he-hut-2.gif)
 
+## [Vertigo](./vertigo)
+
+### CT
+
+- [smoke - ramp - 1](./vertigo/ct-smoke-ramp-1.gif)
+- [smoke - ramp - 2](./vertigo/ct-smoke-ramp-2.gif)
+- [smoke - mid](./vertigo/ct-smoke-mid.gif)
+- [he - ramp](./vertigo/ct-he-ramp.gif)
+- [one-way - ramp](./vertigo/ct-1way-ramp.gif)
+
+### T
+
+- [smoke - a - left](./vertigo/t-smoke-a-left.gif)
+- [smoke - a - right](./vertigo/t-smoke-a-right.gif)
+- [smoke - b - close](./vertigo/t-smoke-b-close.gif)
+- [smoke - b - far](./vertigo/t-smoke-b-far.gif)
+- [smoke - b - window](./vertigo/t-smoke-window.gif)
+- [molo - a - box](./vertigo/t-molo-a-box.gif)
+
 # Notes
 
 I use [gifsicle](https://www.lcdf.org/gifsicle/) for gif compression.
