@@ -39,8 +39,8 @@ _All the non jump-throws works on both 64 and 128 tick. The jump-throws are ment
 
 ### CT
 
-- [smoke - ramp - 1](./vertigo/ct-smoke-ramp-1.gif)
-- [smoke - ramp - 2](./vertigo/ct-smoke-ramp-2.gif)
+- [smoke - ramp - 1](./vertigo/ct-ramp-smoke-1.gif)
+- [smoke - ramp - 2](./vertigo/ct-ramp-smoke-2.gif)
 - [smoke - mid](./vertigo/ct-smoke-mid.gif)
 - [he - ramp](./vertigo/ct-he-ramp.gif)
 - [one-way - ramp](./vertigo/ct-1way-ramp.gif)
