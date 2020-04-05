@@ -26,6 +26,8 @@ _All the non jump-throws works on both 64 and 128 tick. The jump-throws are ment
 
 ## [Nuke](./nuke)
 
+### T
+
 - [smoke - garage](./nuke/t-smoke-garage.gif)
 - [smoke - yard - close](./nuke/t-smoke-yard-close.gif)
 - [smoke - yard - far](./nuke/t-smoke-yard-far.gif)
