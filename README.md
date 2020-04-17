@@ -51,7 +51,7 @@ _All the non jump-throws works on both 64 and 128 tick. The jump-throws are ment
 - [smoke - a - right](./vertigo/t-smoke-a-right.gif)
 - [molo - a - box](./vertigo/t-molo-a-box.gif)
 - [smoke - b - center](./vertigo/t-smoke-b-center.gif)
-- [smoke - b - deep](./vertigo/t-smoke-b-center.gif)
+- [smoke - b - deep](./vertigo/t-smoke-b-deep.gif)
 - [smoke - mid - deep-left](./vertigo/t-smoke-mid-ct.gif)
 - [smoke - mid - deep-rightt](./vertigo/t-smoke-mid-right.gif)
 - [smoke - mid - window](./vertigo/t-smoke-mid-window.gif)
